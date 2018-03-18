@@ -1,0 +1,1442 @@
+﻿Log file open, 03/18/18 16:08:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2083690458) SRandInit(-2083690458).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.160946
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Program Files (x86)/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.18-08.08.48:317][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.18-08.08.48:317][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.18-08.08.48:330][  0]LogInit: Computer: DESKTOP-R6OUBH8
+[2018.03.18-08.08.48:330][  0]LogInit: User: YzArCBeatS
+[2018.03.18-08.08.48:330][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.18-08.08.48:330][  0]LogInit: High frequency timer resolution =3.328125 MHz
+[2018.03.18-08.08.48:330][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.18-08.08.48:330][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.18-08.08.48:330][  0]LogMemory: Process Physical Memory: 274.81 MB used, 274.81 MB peak
+[2018.03.18-08.08.48:330][  0]LogMemory: Process Virtual Memory: 264.88 MB used, 264.88 MB peak
+[2018.03.18-08.08.48:330][  0]LogMemory: Physical Memory: 5381.11 MB used,  10930.27 MB free, 16311.37 MB total
+[2018.03.18-08.08.48:330][  0]LogMemory: Virtual Memory: 673.10 MB used,  10930.27 MB free, 134217728.00 MB total
+[2018.03.18-08.08.48:426][  0]LogInit: Using OS detected language (en-US).
+[2018.03.18-08.08.48:426][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.18-08.08.48:428][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.18-08.08.48:812][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.18-08.08.49:028][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.18-08.08.49:067][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.03.18-08.08.49:067][  0]LogD3D11RHI:       2007/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.18-08.08.49:069][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.18-08.08.49:069][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.18-08.08.49:069][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.18-08.08.49:075][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.18-08.08.49:075][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.18-08.08.49:075][  0]LogWindows: EnumDisplayDevices:
+[2018.03.18-08.08.49:076][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.03.18-08.08.49:076][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.03.18-08.08.49:076][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.03.18-08.08.49:076][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.18-08.08.49:076][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.03.18-08.08.49:076][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.18-08.08.49:076][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.18-08.08.49:076][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2018.03.18-08.08.49:105][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.18-08.08.49:270][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.03.18-08.08.49:319][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Intermediate/Shaders/WorkingDirectory/8424/).
+[2018.03.18-08.08.49:319][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/YzArC-BeatS/AppData/Local/Temp/UnrealShaderWorkingDir/DC6971274695922AB8C7FFA96DCA8D07/'.
+[2018.03.18-08.08.49:319][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.18-08.08.50:257][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.18-08.08.50:295][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.18-08.08.50:333][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.18-08.08.50:373][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.18-08.08.50:411][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.18-08.08.50:449][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.18-08.08.50:491][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.18-08.08.50:527][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.18-08.08.50:559][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.18-08.08.50:596][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.18-08.08.50:635][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.18-08.08.50:672][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.18-08.08.50:708][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.18-08.08.50:746][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.18-08.08.50:818][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.18-08.08.50:818][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.18-08.08.50:853][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.18-08.08.50:880][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.18-08.08.50:950][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.18-08.08.50:976][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.18-08.08.51:016][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.18-08.08.51:052][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.18-08.08.51:089][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.18-08.08.51:127][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.18-08.08.51:127][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.18-08.08.51:439][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.18-08.08.51:503][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/YzArC-BeatS/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.18-08.08.51:503][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/YzArC-BeatS/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.18-08.08.51:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.18-08.08.51:503][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.18-08.08.51:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.18-08.08.51:503][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.18-08.08.51:518][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.18-08.08.51:530][  0]LogDerivedDataCache: Using Local data cache path C:/Users/YzArC-BeatS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.18-08.08.51:539][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.18-08.08.51:540][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.18-08.08.51:540][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.18-08.08.51:540][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.18-08.08.51:854][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.18-08.08.52:105][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.18-08.08.52:133][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.18-08.08.52:133][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.18-08.08.52:133][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.18-08.08.52:133][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.18-08.08.52:133][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.18-08.08.52:157][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.03.18-08.08.52:301][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2018.03.18-08.08.52:769][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.065197 seconds
+[2018.03.18-08.08.52:775][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.18-08.08.52:775][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.18-08.08.52:775][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.18-08.08.52:809][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.18-08.08.54:950][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.18-08.08.54:983][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.18-08.08.55:480][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.18-08.08.55:794][  0]SourceControl: Source control is disabled
+[2018.03.18-08.08.55:794][  0]SourceControl: Source control is disabled
+[2018.03.18-08.08.55:830][  0]SourceControl: Source control is disabled
+[2018.03.18-08.08.55:865][  0]SourceControl: Source control is disabled
+[2018.03.18-08.08.56:422][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.18-08.08.56:601][  0]LogOcInput: OculusInput pre-init called
+[2018.03.18-08.08.56:808][  0]LogEngine: Initializing Engine...
+[2018.03.18-08.08.56:810][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.18-08.08.57:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.18-08.08.57:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.18-08.08.57:121][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.18-08.08.57:136][  0]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.18-08.08.57:147][  0]LogInit: FAudioDevice initialized.
+[2018.03.18-08.08.57:299][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/YzArC-BeatS/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.18-08.08.57:312][  0]LogInit: Texture streaming: Enabled
+[2018.03.18-08.08.57:377][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.18-08.08.57:471][  0]LogInit: Transaction tracking system initialized
+[2018.03.18-08.08.57:692][  0]BlueprintLog: New page: Editor Load
+[2018.03.18-08.08.58:290][  0]LocalizationService: Localization service is disabled
+[2018.03.18-08.08.58:802][  0]LogConsoleResponse: Display: 
+[2018.03.18-08.08.58:944][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.18-08.08.58:944][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.18-08.08.58:944][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.18-08.08.59:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/' took 0.02s
+[2018.03.18-08.08.59:766][  0]SourceControl: Source control is disabled
+[2018.03.18-08.08.59:767][  0]Cmd: MAP LOAD FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.18-08.08.59:767][  0]LogEditorServer: Warning: Can't find file 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.18-08.08.59:767][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.18-08.08.59:798][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 31.37ms to complete.
+[2018.03.18-08.08.59:798][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.032
+[2018.03.18-08.08.59:855][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.18-08.08.59:926][  0]LogCollectionManager: Loaded 0 collections in 0.000905 seconds
+[2018.03.18-08.08.59:991][  0]LogFileCache: Scanning file cache for directory 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Collections/' took 0.01s
+[2018.03.18-08.08.59:991][  0]LogFileCache: Scanning file cache for directory 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/Developers/YzArCBeatS/Collections/' took 0.01s
+[2018.03.18-08.08.59:991][  0]LogFileCache: Scanning file cache for directory 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/Collections/' took 0.01s
+[2018.03.18-08.08.59:991][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.18-08.08.59:999][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2363 classes and 519 folders.
+[2018.03.18-08.09.00:040][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.18-08.09.00:068][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.18-08.09.00:095][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.18-08.09.00:143][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.18-08.09.00:150][  0]LogSlate: Took 0.000578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.18-08.09.00:155][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.18-08.09.00:242][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.18-08.09.00:418][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.18-08.09.00:418][  0]LogLoad: (Engine Initialization) Total time: 13.90 seconds
+[2018.03.18-08.09.00:418][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.18-08.09.00:418][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.18-08.09.00:777][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.18-08.09.00:816][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.18-08.09.01:102][  1]LogAssetRegistry: Asset discovery search completed in 8.8232 seconds
+[2018.03.18-08.09.01:104][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.18-08.09.01:104][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2018.03.18-08.09.01:760][  3]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.18-08.09.04:895][102]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.18-08.09.05:391][102]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.09.05:519][102]Cmd: MAP LOAD FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.18-08.09.05:519][102]LightingResults: New page: Lighting Build
+[2018.03.18-08.09.05:544][102]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2018.03.18-08.09.05:545][102]LoadErrors: New page: Loading map: MyLevel.umap
+[2018.03.18-08.09.05:545][102]MapCheck: New page: Map Check
+[2018.03.18-08.09.05:545][102]LightingResults: New page: Lighting Build
+[2018.03.18-08.09.05:876][102]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.18-08.09.05:909][102]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.18-08.09.05:948][102]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38.932ms to complete.
+[2018.03.18-08.09.05:951][102]LogFileHelpers: Loading map 'MyLevel' took 0.433
+[2018.03.18-08.09.14:108][225]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.09.14:155][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-08.09.14:155][225]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:09:14 AM)
+[2018.03.18-08.09.14:155][225]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.09.14:446][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.290785s)
+[2018.03.18-08.09.14:447][225]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.09.14:447][225]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2018.03.18-08.09.14:447][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.291791s)
+[2018.03.18-08.09.14:466][225]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.18-08.09.14:472][225]LogInit: FAudioDevice initialized.
+[2018.03.18-08.09.14:516][225]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.09.14:538][225]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.09.14
+[2018.03.18-08.09.14:539][225]LogWorld: Bringing up level for play took: 0.021112
+[2018.03.18-08.09.14:568][225]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.18-08.09.14:571][225]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.443
+[2018.03.18-08.11.39:956][  5]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.03.18-08.11.40:530][  5]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.18-08.11.40:693][  5]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.18-08.11.40:762][  6]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.18-08.12.22:829][754]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.18.29:084][509]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.18-08.18.42:394][586]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{b07dc8c1-8f5b-4667-bb41-06ba3f061e16} was removed. Shutting down audio device.
+[2018.03.18-08.18.42:394][586]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.18.42:725][587]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.19.11:927][674]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyLevel' took 0.110
+[2018.03.18-08.19.11:928][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.03.18-08.19.12:071][674]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.03.18-08.19.12:071][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.03.18-08.19.12:173][674]LogSavePackage: Save=92.59ms
+[2018.03.18-08.19.12:173][674]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter_Auto1776E8B1C47EBA52EA8E784850561D98F.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Autosaves/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.03.18-08.19.12:176][674]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Autosaves/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.03.18-08.19.12:176][674]LogFileHelpers: Auto-saving content packages took 0.248
+[2018.03.18-08.19.23:801][952]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.18-08.19.24:043][952]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.18-08.19.24:268][952]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.03.18-08.19.24:644][952]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.03.18-08.21.53:947][453]LogClass: Warning: Type mismatch in Character_Anim of SKEL_ThirdPersonCharacter_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2018.03.18-08.22.28:588][313]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.23.29:614][664]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.24.17:951][371]LogEditorTransaction: Undo Remove Graph
+[2018.03.18-08.24.18:063][371]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.18-08.25.17:981][285]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.25.39:833][232]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.25.53:822][441]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.25.56:050][547]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.25.56:066][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-08.25.56:067][547]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:25:56 AM)
+[2018.03.18-08.25.56:067][547]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.25.56:124][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057547s)
+[2018.03.18-08.25.56:125][547]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.25.56:125][547]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2018.03.18-08.25.56:125][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.058646s)
+[2018.03.18-08.25.56:149][547]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.25.56:159][547]LogInit: FAudioDevice initialized.
+[2018.03.18-08.25.56:198][547]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.25.56:218][547]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.25.56
+[2018.03.18-08.25.56:219][547]LogWorld: Bringing up level for play took: 0.019759
+[2018.03.18-08.25.56:219][547]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.18-08.25.56:223][547]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.095
+[2018.03.18-08.25.56:225][547]LogScript: Warning: Accessed None trying to read property Character_AnimBP
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0164
+[2018.03.18-08.25.56:225][547]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.25.56:225][547]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0179
+[2018.03.18-08.25.56:225][547]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.25.56:252][547]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.03.18-08.25.56:315][548]LogScript: Warning: Accessed None trying to read property Character_AnimBP
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0164
+[2018.03.18-08.25.56:315][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.25.56:315][548]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0179
+[2018.03.18-08.25.56:315][548]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.25.59:828][727]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.25.59:846][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-08.25.59:846][727]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:25:59 AM)
+[2018.03.18-08.25.59:846][727]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.25.59:901][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053945s)
+[2018.03.18-08.25.59:902][727]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.25.59:902][727]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2018.03.18-08.25.59:902][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.055349s)
+[2018.03.18-08.25.59:924][727]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.25.59:933][727]LogInit: FAudioDevice initialized.
+[2018.03.18-08.25.59:962][727]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.25.59:983][727]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.25.59
+[2018.03.18-08.25.59:984][727]LogWorld: Bringing up level for play took: 0.020518
+[2018.03.18-08.25.59:986][727]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.142
+[2018.03.18-08.25.59:988][727]LogScript: Warning: Accessed None trying to read property Character_AnimBP
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0164
+[2018.03.18-08.25.59:988][727]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.25.59:988][727]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0179
+[2018.03.18-08.25.59:988][727]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.26.00:033][728]LogScript: Warning: Accessed None trying to read property Character_AnimBP
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0164
+[2018.03.18-08.26.00:034][728]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.26.00:034][728]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0179
+[2018.03.18-08.26.00:034][728]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.26.11:462][126]LogSavePackage: Save=89.97ms
+[2018.03.18-08.26.11:462][126]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPerson_AnimBP265141EE485088E3982D7CA689774B30.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.03.18-08.26.11:464][126]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.03.18-08.26.20:436][589]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.18-08.26.21:696][647]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.26.21:716][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-08.26.21:716][647]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:26:21 AM)
+[2018.03.18-08.26.21:716][647]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.26.21:774][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057746s)
+[2018.03.18-08.26.21:775][647]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.26.21:775][647]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2018.03.18-08.26.21:775][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.059144s)
+[2018.03.18-08.26.21:796][647]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.26.21:805][647]LogInit: FAudioDevice initialized.
+[2018.03.18-08.26.21:839][647]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.26.21:859][647]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.26.21
+[2018.03.18-08.26.21:860][647]LogWorld: Bringing up level for play took: 0.019959
+[2018.03.18-08.26.21:863][647]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.265
+[2018.03.18-08.26.21:866][647]LogScript: Warning: Accessed None trying to read property Character_AnimBP
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0164
+[2018.03.18-08.26.21:866][647]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.26.21:866][647]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0179
+[2018.03.18-08.26.21:866][647]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.26.21:908][648]LogScript: Warning: Accessed None trying to read property Character_AnimBP
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0164
+[2018.03.18-08.26.21:908][648]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.26.21:908][648]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0179
+[2018.03.18-08.26.21:908][648]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.26.32:586][360]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.26.32:603][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-08.26.32:603][360]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:26:32 AM)
+[2018.03.18-08.26.32:604][360]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.26.32:662][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057676s)
+[2018.03.18-08.26.32:662][360]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.26.32:663][360]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.03.18-08.26.32:663][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.059039s)
+[2018.03.18-08.26.32:684][360]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.26.32:693][360]LogInit: FAudioDevice initialized.
+[2018.03.18-08.26.32:726][360]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.26.32:746][360]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.26.32
+[2018.03.18-08.26.32:747][360]LogWorld: Bringing up level for play took: 0.019308
+[2018.03.18-08.26.32:749][360]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.621
+[2018.03.18-08.26.32:751][360]LogScript: Warning: Accessed None trying to read property Character_AnimBP
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0164
+[2018.03.18-08.26.32:751][360]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.26.32:751][360]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0179
+[2018.03.18-08.26.32:751][360]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.26.32:793][361]LogScript: Warning: Accessed None trying to read property Character_AnimBP
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0164
+[2018.03.18-08.26.32:793][361]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.26.32:793][361]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0179
+[2018.03.18-08.26.32:794][361]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.26.52:316][201]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::ClampAngle' [Element not found.]
+[2018.03.18-08.27.00:365][560]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.27.01:772][645]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.27.01:790][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-08.27.01:790][645]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:27:01 AM)
+[2018.03.18-08.27.01:790][645]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.27.01:844][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054646s)
+[2018.03.18-08.27.01:845][645]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.27.01:845][645]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.03.18-08.27.01:845][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.055703s)
+[2018.03.18-08.27.01:866][645]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.27.01:874][645]LogInit: FAudioDevice initialized.
+[2018.03.18-08.27.01:907][645]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.27.01:927][645]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.27.01
+[2018.03.18-08.27.01:927][645]LogWorld: Bringing up level for play took: 0.019881
+[2018.03.18-08.27.01:929][645]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.199
+[2018.03.18-08.27.01:931][645]LogScript: Warning: Accessed None trying to read property Character_AnimBP
+	ThirdPersonCharacter_C /Game/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Update_Head_Rotation:0193
+[2018.03.18-08.27.01:932][645]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.27.01:932][645]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.27.01:973][646]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.27.01:974][646]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.27.26:702][922]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.27.27:851][950]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.27.27:869][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-08.27.27:869][950]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:27:27 AM)
+[2018.03.18-08.27.27:869][950]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.27.27:924][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055018s)
+[2018.03.18-08.27.27:925][950]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.27.27:925][950]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2018.03.18-08.27.27:926][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.056241s)
+[2018.03.18-08.27.27:947][950]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.27.27:955][950]LogInit: FAudioDevice initialized.
+[2018.03.18-08.27.27:988][950]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.27.28:008][950]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.27.28
+[2018.03.18-08.27.28:009][950]LogWorld: Bringing up level for play took: 0.019792
+[2018.03.18-08.27.28:011][950]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.117
+[2018.03.18-08.27.28:013][950]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.27.28:013][950]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.27.28:054][951]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.27.28:055][951]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.28.29:296][408]LogSavePackage: Save=90.17ms
+[2018.03.18-08.28.29:296][408]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter8CB79C7E4EC17F25EC6D9388569DB727.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-08.28.29:301][408]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-08.29.15:117][348]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.29.15:135][348]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-08.29.15:150][348]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-08.29.15:440][348]LogPlayLevel: PlayLevel: Blueprint regeneration took 305 ms (1 blueprints)
+[2018.03.18-08.29.15:441][348]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:29:15 AM)
+[2018.03.18-08.29.15:441][348]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.29.15:495][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054146s)
+[2018.03.18-08.29.15:496][348]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.29.15:496][348]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2018.03.18-08.29.15:497][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.055664s)
+[2018.03.18-08.29.15:518][348]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.29.15:527][348]LogInit: FAudioDevice initialized.
+[2018.03.18-08.29.15:560][348]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.29.15:581][348]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.29.15
+[2018.03.18-08.29.15:581][348]LogWorld: Bringing up level for play took: 0.019775
+[2018.03.18-08.29.15:583][348]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.545
+[2018.03.18-08.29.15:586][348]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.29.15:586][348]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.29.15:603][349]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080344 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2018.03.18-08.29.15:603][349]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.29.15:603][349]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.29.33:349][163]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.29.33:367][163]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-08.29.33:380][163]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-08.29.33:757][163]LogPlayLevel: PlayLevel: Blueprint regeneration took 390 ms (1 blueprints)
+[2018.03.18-08.29.33:757][163]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:29:33 AM)
+[2018.03.18-08.29.33:757][163]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.29.33:811][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053179s)
+[2018.03.18-08.29.33:812][163]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.29.33:812][163]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2018.03.18-08.29.33:812][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.054253s)
+[2018.03.18-08.29.33:833][163]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.29.33:842][163]LogInit: FAudioDevice initialized.
+[2018.03.18-08.29.33:877][163]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.29.33:897][163]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.29.33
+[2018.03.18-08.29.33:898][163]LogWorld: Bringing up level for play took: 0.019683
+[2018.03.18-08.29.33:900][163]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.228
+[2018.03.18-08.29.33:902][163]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.29.33:902][163]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.29.33:918][164]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.29.33:918][164]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.30.33:453][419]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2018.03.18-08.30.34:957][465]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.30.34:975][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-08.30.34:975][465]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:30:34 AM)
+[2018.03.18-08.30.34:975][465]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.30.35:038][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063228s)
+[2018.03.18-08.30.35:039][465]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.30.35:039][465]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2018.03.18-08.30.35:040][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.064597s)
+[2018.03.18-08.30.35:061][465]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.30.35:071][465]LogInit: FAudioDevice initialized.
+[2018.03.18-08.30.35:102][465]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.30.35:122][465]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.30.35
+[2018.03.18-08.30.35:123][465]LogWorld: Bringing up level for play took: 0.019453
+[2018.03.18-08.30.35:125][465]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.997
+[2018.03.18-08.30.35:127][465]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.30.35:127][465]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.30.35:170][466]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.30.35:171][466]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.31.45:319][694]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.31.46:794][732]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.31.46:812][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-08.31.46:813][732]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:31:46 AM)
+[2018.03.18-08.31.46:813][732]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.31.46:868][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054980s)
+[2018.03.18-08.31.46:869][732]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.31.46:869][732]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2018.03.18-08.31.46:869][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.056372s)
+[2018.03.18-08.31.46:892][732]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.31.46:901][732]LogInit: FAudioDevice initialized.
+[2018.03.18-08.31.46:934][732]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.31.46:955][732]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.31.46
+[2018.03.18-08.31.46:955][732]LogWorld: Bringing up level for play took: 0.019923
+[2018.03.18-08.31.46:957][732]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.829
+[2018.03.18-08.31.46:959][732]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.31.46:959][732]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.31.47:003][733]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.31.47:004][733]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.33.08:987][318]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-08.33.09:006][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-08.33.09:006][318]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 12:33:09 AM)
+[2018.03.18-08.33.09:006][318]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-08.33.09:064][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057644s)
+[2018.03.18-08.33.09:065][318]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-08.33.09:065][318]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2018.03.18-08.33.09:065][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.058947s)
+[2018.03.18-08.33.09:089][318]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-08.33.09:096][318]LogInit: FAudioDevice initialized.
+[2018.03.18-08.33.09:130][318]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-08.33.09:150][318]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-16.33.09
+[2018.03.18-08.33.09:151][318]LogWorld: Bringing up level for play took: 0.019761
+[2018.03.18-08.33.09:153][318]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 1.025
+[2018.03.18-08.33.09:155][318]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.33.09:155][318]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.33.09:197][319]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-08.33.09:197][319]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-08.33.38:421][821]LogSavePackage: Save=89.74ms
+[2018.03.18-08.33.38:421][821]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPerson_AnimBP138E7DC1428B5E21D2C6688A087BE989.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.03.18-08.33.38:424][821]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.03.18-08.34.44:308][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyLevel' took 0.019
+[2018.03.18-08.34.44:316][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.03.18-08.34.44:377][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.03.18-08.34.44:377][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.03.18-08.34.44:478][127]LogSavePackage: Save=93.00ms
+[2018.03.18-08.34.44:478][127]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter_Auto200E793B24515C20F31AA0FBEE2201968.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Autosaves/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2018.03.18-08.34.44:480][127]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Autosaves/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2018.03.18-08.34.44:480][127]LogFileHelpers: Auto-saving content packages took 0.165
+[2018.03.18-08.37.53:326][702]LogEditorTransaction: Undo Delete current selection
+[2018.03.18-08.37.53:433][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.18-08.37.57:768][852]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_GetActorRotation' [Element not found.]
+[2018.03.18-08.44.05:573][507]LogEditorTransaction: Undo Delete current selection
+[2018.03.18-08.44.05:684][507]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.18-08.44.11:015][658]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.44.44:851][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyLevel' took 0.047
+[2018.03.18-08.44.44:853][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.03.18-08.44.44:927][927]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.03.18-08.44.44:927][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.03.18-08.44.45:039][927]LogSavePackage: Save=103.68ms
+[2018.03.18-08.44.45:039][927]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter_Auto3E0E3B43A448DF8BF0A0BD88B5690D0DA.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Autosaves/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2018.03.18-08.44.45:042][927]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Autosaves/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2018.03.18-08.44.45:042][927]LogFileHelpers: Auto-saving content packages took 0.190
+[2018.03.18-08.45.07:836][533]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.45.16:055][114]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.45.22:796][760]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.49.37:297][390]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.57.43:354][680]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyLevel' took 0.029
+[2018.03.18-08.57.43:356][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.03.18-08.57.43:394][680]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.03.18-08.57.43:394][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.03.18-08.57.43:534][680]LogSavePackage: Save=131.03ms
+[2018.03.18-08.57.43:534][680]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter_Auto45B28CADF4A6FAA873E0FA1AB0DF1B4C9.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Autosaves/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2018.03.18-08.57.43:537][680]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Autosaves/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset
+[2018.03.18-08.57.43:537][680]LogFileHelpers: Auto-saving content packages took 0.182
+[2018.03.18-08.59.17:461][611]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_SetActorRotation' [Element not found.]
+[2018.03.18-08.59.20:676][715]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-08.59.20:725][715]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2018.03.18-08.59.20:725][715]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2018.03.18-08.59.21:013][715]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [3034.49] Compile of ThirdPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 336 ms] (/Game/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.03.18-09.00.17:050][581]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.02.06:005][374]LogEditorTransaction: Undo Resize Node
+[2018.03.18-09.02.06:137][374]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.18-09.03.49:951][872]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.04.00:338][102]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.07.04:618][556]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.07.33:636][802]LogSavePackage: Save=148.79ms
+[2018.03.18-09.07.33:636][802]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacterE6461F4F487FB9AE8CAEA1A9B545C146.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.07.33:650][802]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.07.34:934][865]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.07.34:953][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.07.34:953][865]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:07:34 AM)
+[2018.03.18-09.07.34:953][865]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.07.35:010][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057187s)
+[2018.03.18-09.07.35:011][865]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.07.35:012][865]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2018.03.18-09.07.35:012][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.058912s)
+[2018.03.18-09.07.35:033][865]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.07.35:043][865]LogInit: FAudioDevice initialized.
+[2018.03.18-09.07.35:075][865]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.07.35:096][865]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.07.35
+[2018.03.18-09.07.35:096][865]LogWorld: Bringing up level for play took: 0.020463
+[2018.03.18-09.07.35:098][865]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.97
+[2018.03.18-09.07.35:101][865]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.07.35:101][865]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.07.35:101][865]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.07.35:144][866]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.07.35:144][866]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.07.35:145][866]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.10:020][ 62]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.08.12:394][182]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.08.12:413][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.08.12:413][182]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:08:12 AM)
+[2018.03.18-09.08.12:413][182]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.08.12:467][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053642s)
+[2018.03.18-09.08.12:468][182]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.08.12:468][182]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2018.03.18-09.08.12:468][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.055232s)
+[2018.03.18-09.08.12:490][182]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.08.12:499][182]LogInit: FAudioDevice initialized.
+[2018.03.18-09.08.12:533][182]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.08.12:554][182]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.08.12
+[2018.03.18-09.08.12:554][182]LogWorld: Bringing up level for play took: 0.019660
+[2018.03.18-09.08.12:556][182]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.428
+[2018.03.18-09.08.12:559][182]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.12:559][182]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.08.12:559][182]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.12:602][183]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.12:602][183]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.08.12:603][183]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.29:395][391]LogSavePackage: Save=150.90ms
+[2018.03.18-09.08.29:395][391]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter56FE0F3E4D56735449EB22954E0959F7.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.08.29:399][391]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.08.43:270][687]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.08.44:896][707]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.08.44:915][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.08.44:915][707]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:08:44 AM)
+[2018.03.18-09.08.44:915][707]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.08.44:980][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064639s)
+[2018.03.18-09.08.44:981][707]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.08.44:981][707]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2018.03.18-09.08.44:982][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.066169s)
+[2018.03.18-09.08.45:005][707]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.08.45:014][707]LogInit: FAudioDevice initialized.
+[2018.03.18-09.08.45:058][707]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.08.45:078][707]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.08.45
+[2018.03.18-09.08.45:079][707]LogWorld: Bringing up level for play took: 0.020287
+[2018.03.18-09.08.45:079][707]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.18-09.08.45:085][707]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.956
+[2018.03.18-09.08.45:089][707]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.45:089][707]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.08.45:089][707]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.45:308][708]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.45:308][708]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.08.45:308][708]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.48:092][767]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.08.48:111][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.08.48:111][767]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:08:48 AM)
+[2018.03.18-09.08.48:111][767]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.08.48:166][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054840s)
+[2018.03.18-09.08.48:166][767]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.08.48:166][767]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2018.03.18-09.08.48:167][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.055958s)
+[2018.03.18-09.08.48:188][767]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.08.48:196][767]LogInit: FAudioDevice initialized.
+[2018.03.18-09.08.48:226][767]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.08.48:246][767]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.08.48
+[2018.03.18-09.08.48:246][767]LogWorld: Bringing up level for play took: 0.019126
+[2018.03.18-09.08.48:248][767]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.12
+[2018.03.18-09.08.48:250][767]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.48:250][767]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.08.48:250][767]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.48:295][768]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.08.48:295][768]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.08.48:295][768]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.09.06:363][573]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.09.10:734][758]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.09.10:754][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.09.10:754][758]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:09:10 AM)
+[2018.03.18-09.09.10:754][758]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.09.10:811][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055834s)
+[2018.03.18-09.09.10:811][758]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.09.10:812][758]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2018.03.18-09.09.10:812][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.056982s)
+[2018.03.18-09.09.10:833][758]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.09.10:843][758]LogInit: FAudioDevice initialized.
+[2018.03.18-09.09.10:874][758]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.09.10:894][758]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.09.10
+[2018.03.18-09.09.10:894][758]LogWorld: Bringing up level for play took: 0.018913
+[2018.03.18-09.09.10:896][758]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.768
+[2018.03.18-09.09.10:898][758]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.09.10:898][758]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.09.10:898][758]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.09.10:943][759]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.09.10:944][759]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.09.10:944][759]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.09.46:540][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.18-09.09.48:084][652]LogSavePackage: Save=1505.18ms
+[2018.03.18-09.09.48:084][652]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/MyLevel134D263F4514D3D062AC17BCB29F6E7D.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap'
+[2018.03.18-09.09.48:086][652]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap
+[2018.03.18-09.09.48:121][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2018.03.18-09.09.49:033][652]LogSavePackage: Save=891.17ms
+[2018.03.18-09.09.49:033][652]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/MyLevel_BuiltData4220D47345E7E81B84B869AE2C90BEDA.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset'
+[2018.03.18-09.09.49:037][652]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset
+[2018.03.18-09.09.49:977][690]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.09.49:994][690]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-09.09.50:020][690]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-09.09.50:334][690]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2018.03.18-09.09.50:335][690]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:09:50 AM)
+[2018.03.18-09.09.50:335][690]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.09.50:388][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053304s)
+[2018.03.18-09.09.50:389][690]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.09.50:389][690]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.03.18-09.09.50:389][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.054409s)
+[2018.03.18-09.09.50:412][690]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.09.50:422][690]LogInit: FAudioDevice initialized.
+[2018.03.18-09.09.50:452][690]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.09.50:471][690]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.09.50
+[2018.03.18-09.09.50:472][690]LogWorld: Bringing up level for play took: 0.018882
+[2018.03.18-09.09.50:474][690]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.346
+[2018.03.18-09.09.50:476][690]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.09.50:476][690]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.09.50:476][690]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.09.50:495][691]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.09.50:495][691]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.09.50:495][691]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.09.59:280][ 64]LogSavePackage: Save=146.15ms
+[2018.03.18-09.09.59:280][ 64]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacterB90E17014A799EDABE637C8899572675.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.09.59:283][ 64]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.10.01:328][124]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.10.01:346][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.10.01:346][124]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:10:01 AM)
+[2018.03.18-09.10.01:346][124]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.10.01:401][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055803s)
+[2018.03.18-09.10.01:402][124]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.10.01:403][124]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2018.03.18-09.10.01:403][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.057173s)
+[2018.03.18-09.10.01:424][124]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.10.01:433][124]LogInit: FAudioDevice initialized.
+[2018.03.18-09.10.01:468][124]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.10.01:488][124]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.10.01
+[2018.03.18-09.10.01:489][124]LogWorld: Bringing up level for play took: 0.019726
+[2018.03.18-09.10.01:491][124]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.637
+[2018.03.18-09.10.01:493][124]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.10.01:493][124]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.10.01:493][124]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.10.01:539][125]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.10.01:539][125]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'Update_Head_Rotation' from node: Set Head_Rotator in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Attempted to assign to None
+[2018.03.18-09.10.01:539][125]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Character_AnimBP from function: 'Update_Head_Rotation' from node: Set Head_Rotation in graph: Update_Head_Rotation in object: ThirdPersonCharacter with description: Accessed None trying to read property Character_AnimBP
+[2018.03.18-09.10.35:319][826]LogSavePackage: Save=138.23ms
+[2018.03.18-09.10.35:319][826]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter04920A0E49BB0CD9C3C4FB80C16C36A8.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.10.35:322][826]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.11.06:713][648]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.11.55:828][594]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.11.57:082][625]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.11.57:100][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.11.57:100][625]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:11:57 AM)
+[2018.03.18-09.11.57:100][625]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.11.57:157][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056619s)
+[2018.03.18-09.11.57:158][625]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.11.57:158][625]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2018.03.18-09.11.57:159][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.057818s)
+[2018.03.18-09.11.57:182][625]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.11.57:192][625]LogInit: FAudioDevice initialized.
+[2018.03.18-09.11.57:233][625]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.11.57:254][625]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.11.57
+[2018.03.18-09.11.57:254][625]LogWorld: Bringing up level for play took: 0.019697
+[2018.03.18-09.11.57:255][625]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.18-09.11.57:261][625]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 1.132
+[2018.03.18-09.12.00:221][700]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.12.00:239][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.12.00:239][700]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:12:00 AM)
+[2018.03.18-09.12.00:239][700]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.12.00:296][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057124s)
+[2018.03.18-09.12.00:297][700]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.12.00:297][700]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2018.03.18-09.12.00:297][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.058389s)
+[2018.03.18-09.12.00:318][700]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.12.00:326][700]LogInit: FAudioDevice initialized.
+[2018.03.18-09.12.00:357][700]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.12.00:377][700]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.12.00
+[2018.03.18-09.12.00:377][700]LogWorld: Bringing up level for play took: 0.018791
+[2018.03.18-09.12.00:379][700]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.251
+[2018.03.18-09.12.20:336][624]LogSavePackage: Save=151.58ms
+[2018.03.18-09.12.20:337][624]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter7C50C4F745B501549A21DA8083B357DE.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.12.20:341][624]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.12.53:274][415]LogSavePackage: Save=138.41ms
+[2018.03.18-09.12.53:274][415]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter743BB34C482184FE0D86E39589AAB50A.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.12.53:278][415]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.13.38:325][123]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.13.38:344][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.13.38:345][123]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:13:38 AM)
+[2018.03.18-09.13.38:345][123]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.13.38:402][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056501s)
+[2018.03.18-09.13.38:402][123]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.13.38:402][123]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.03.18-09.13.38:403][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.057512s)
+[2018.03.18-09.13.38:424][123]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.13.38:434][123]LogInit: FAudioDevice initialized.
+[2018.03.18-09.13.38:464][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.13.38:486][123]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.13.38
+[2018.03.18-09.13.38:487][123]LogWorld: Bringing up level for play took: 0.021367
+[2018.03.18-09.13.38:490][123]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.362
+[2018.03.18-09.13.58:449][398]LogSavePackage: Save=152.41ms
+[2018.03.18-09.13.58:449][398]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacterED792EB947D9A9D96BC7EC93A1297BD4.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.13.58:453][398]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.13.59:680][456]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.13.59:699][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.13.59:699][456]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:13:59 AM)
+[2018.03.18-09.13.59:699][456]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.13.59:755][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056377s)
+[2018.03.18-09.13.59:756][456]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.13.59:757][456]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2018.03.18-09.13.59:757][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.057977s)
+[2018.03.18-09.13.59:779][456]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.13.59:788][456]LogInit: FAudioDevice initialized.
+[2018.03.18-09.13.59:822][456]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.13.59:844][456]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.13.59
+[2018.03.18-09.13.59:844][456]LogWorld: Bringing up level for play took: 0.020104
+[2018.03.18-09.13.59:846][456]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.282
+[2018.03.18-09.14.36:718][577]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.14.36:736][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.14.36:736][577]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:14:36 AM)
+[2018.03.18-09.14.36:736][577]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.14.36:807][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070827s)
+[2018.03.18-09.14.36:807][577]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.14.36:808][577]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2018.03.18-09.14.36:808][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.071573s)
+[2018.03.18-09.14.36:830][577]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.14.36:839][577]LogInit: FAudioDevice initialized.
+[2018.03.18-09.14.36:890][577]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.14.36:910][577]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.14.36
+[2018.03.18-09.14.36:910][577]LogWorld: Bringing up level for play took: 0.019190
+[2018.03.18-09.14.36:912][577]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.784
+[2018.03.18-09.15.34:809][173]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.15.34:828][173]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-09.15.34:851][173]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-09.15.35:175][173]LogPlayLevel: PlayLevel: Blueprint regeneration took 347 ms (1 blueprints)
+[2018.03.18-09.15.35:175][173]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:15:35 AM)
+[2018.03.18-09.15.35:175][173]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.15.35:230][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055253s)
+[2018.03.18-09.15.35:231][173]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.15.35:231][173]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2018.03.18-09.15.35:232][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.056730s)
+[2018.03.18-09.15.35:254][173]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.15.35:264][173]LogInit: FAudioDevice initialized.
+[2018.03.18-09.15.35:296][173]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.15.35:316][173]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.15.35
+[2018.03.18-09.15.35:316][173]LogWorld: Bringing up level for play took: 0.019422
+[2018.03.18-09.15.35:319][173]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 1.191
+[2018.03.18-09.15.35:339][174]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054370 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2018.03.18-09.15.51:789][332]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.15.51:808][332]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-09.15.51:830][332]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-09.15.52:248][332]LogPlayLevel: PlayLevel: Blueprint regeneration took 440 ms (1 blueprints)
+[2018.03.18-09.15.52:248][332]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:15:52 AM)
+[2018.03.18-09.15.52:248][332]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.15.52:300][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052101s)
+[2018.03.18-09.15.52:301][332]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.15.52:302][332]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2018.03.18-09.15.52:302][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.053676s)
+[2018.03.18-09.15.52:323][332]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.15.52:332][332]LogInit: FAudioDevice initialized.
+[2018.03.18-09.15.52:364][332]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.15.52:384][332]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.15.52
+[2018.03.18-09.15.52:385][332]LogWorld: Bringing up level for play took: 0.019269
+[2018.03.18-09.15.52:387][332]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.259
+[2018.03.18-09.16.15:657][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.16.15:677][ 31]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-09.16.15:702][ 31]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-09.16.16:209][ 31]LogPlayLevel: PlayLevel: Blueprint regeneration took 532 ms (1 blueprints)
+[2018.03.18-09.16.16:209][ 31]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:16:16 AM)
+[2018.03.18-09.16.16:209][ 31]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.16.16:262][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052661s)
+[2018.03.18-09.16.16:263][ 31]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.16.16:263][ 31]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2018.03.18-09.16.16:263][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.054148s)
+[2018.03.18-09.16.16:284][ 31]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.16.16:293][ 31]LogInit: FAudioDevice initialized.
+[2018.03.18-09.16.16:327][ 31]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.16.16:347][ 31]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.16.16
+[2018.03.18-09.16.16:348][ 31]LogWorld: Bringing up level for play took: 0.019124
+[2018.03.18-09.16.16:350][ 31]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.222
+[2018.03.18-09.16.26:515][763]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.16.28:543][788]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.16.28:560][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.16.28:560][788]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:16:28 AM)
+[2018.03.18-09.16.28:561][788]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.16.28:626][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065803s)
+[2018.03.18-09.16.28:627][788]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.16.28:627][788]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2018.03.18-09.16.28:627][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.066523s)
+[2018.03.18-09.16.28:691][788]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.16.28:699][788]LogInit: FAudioDevice initialized.
+[2018.03.18-09.16.28:732][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.16.28:751][788]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.16.28
+[2018.03.18-09.16.28:752][788]LogWorld: Bringing up level for play took: 0.018531
+[2018.03.18-09.16.28:754][788]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.626
+[2018.03.18-09.17.31:895][831]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.17.31:914][831]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-09.17.31:936][831]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-09.17.32:254][831]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2018.03.18-09.17.32:255][831]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:17:32 AM)
+[2018.03.18-09.17.32:255][831]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.17.32:307][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051920s)
+[2018.03.18-09.17.32:307][831]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.17.32:308][831]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2018.03.18-09.17.32:308][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.053531s)
+[2018.03.18-09.17.32:329][831]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.17.32:338][831]LogInit: FAudioDevice initialized.
+[2018.03.18-09.17.32:368][831]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.17.32:388][831]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.17.32
+[2018.03.18-09.17.32:389][831]LogWorld: Bringing up level for play took: 0.019785
+[2018.03.18-09.17.32:391][831]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.263
+[2018.03.18-09.17.42:578][976]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.17.43:341][999]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.17.44:639][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.17.44:656][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.17.44:657][ 68]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:17:44 AM)
+[2018.03.18-09.17.44:657][ 68]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.17.44:708][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051762s)
+[2018.03.18-09.17.44:709][ 68]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.17.44:709][ 68]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.03.18-09.17.44:709][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.052867s)
+[2018.03.18-09.17.44:731][ 68]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.17.44:739][ 68]LogInit: FAudioDevice initialized.
+[2018.03.18-09.17.44:770][ 68]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.17.44:790][ 68]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.17.44
+[2018.03.18-09.17.44:790][ 68]LogWorld: Bringing up level for play took: 0.019265
+[2018.03.18-09.17.44:793][ 68]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.664
+[2018.03.18-09.20.15:190][146]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.20.16:771][249]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.20.16:790][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.20.16:790][249]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:20:16 AM)
+[2018.03.18-09.20.16:790][249]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.20.16:845][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054171s)
+[2018.03.18-09.20.16:845][249]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.20.16:845][249]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.03.18-09.20.16:846][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.055287s)
+[2018.03.18-09.20.16:866][249]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.20.16:875][249]LogInit: FAudioDevice initialized.
+[2018.03.18-09.20.16:906][249]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.20.16:926][249]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.20.16
+[2018.03.18-09.20.16:926][249]LogWorld: Bringing up level for play took: 0.019167
+[2018.03.18-09.20.16:929][249]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.801
+[2018.03.18-09.20.33:678][970]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.20.35:894][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.20.35:912][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.20.35:912][ 95]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:20:35 AM)
+[2018.03.18-09.20.35:912][ 95]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.20.35:965][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052667s)
+[2018.03.18-09.20.35:966][ 95]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.20.35:966][ 95]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.03.18-09.20.35:966][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.054067s)
+[2018.03.18-09.20.35:987][ 95]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.20.35:995][ 95]LogInit: FAudioDevice initialized.
+[2018.03.18-09.20.36:028][ 95]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.20.36:048][ 95]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.20.36
+[2018.03.18-09.20.36:049][ 95]LogWorld: Bringing up level for play took: 0.019788
+[2018.03.18-09.20.36:051][ 95]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.077
+[2018.03.18-09.20.49:688][592]LogSavePackage: Save=149.26ms
+[2018.03.18-09.20.49:688][592]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter7883018548E551442691AFB906AE64AD.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.20.49:691][592]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.22.25:146][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.18-09.22.26:626][627]LogSavePackage: Save=1453.03ms
+[2018.03.18-09.22.26:626][627]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/MyLevel99C819C44025E8D00949DF964931E46B.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap'
+[2018.03.18-09.22.26:628][627]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap
+[2018.03.18-09.22.26:660][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2018.03.18-09.22.27:354][627]LogSavePackage: Save=673.13ms
+[2018.03.18-09.22.27:354][627]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/MyLevel_BuiltDataC063B18A436CC41898F2849AE56971C4.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset'
+[2018.03.18-09.22.27:357][627]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset
+[2018.03.18-09.22.27:909][650]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.22.27:928][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.22.27:928][650]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:22:27 AM)
+[2018.03.18-09.22.27:928][650]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.22.27:981][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053379s)
+[2018.03.18-09.22.27:982][650]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.22.27:982][650]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.03.18-09.22.27:982][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.054453s)
+[2018.03.18-09.22.28:005][650]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.22.28:015][650]LogInit: FAudioDevice initialized.
+[2018.03.18-09.22.28:045][650]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.22.28:065][650]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.22.28
+[2018.03.18-09.22.28:065][650]LogWorld: Bringing up level for play took: 0.019187
+[2018.03.18-09.22.28:067][650]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.061
+[2018.03.18-09.23.29:548][110]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.23.51:668][510]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.24.01:130][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.18-09.24.02:598][423]LogSavePackage: Save=1446.27ms
+[2018.03.18-09.24.02:598][423]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/MyLevel4DA8961D4C07265BD0928CBA33D48F9B.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap'
+[2018.03.18-09.24.02:605][423]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap
+[2018.03.18-09.24.02:642][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2018.03.18-09.24.03:325][423]LogSavePackage: Save=679.03ms
+[2018.03.18-09.24.03:325][423]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/MyLevel_BuiltData120E007F4688E7590E602C9784E11489.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset'
+[2018.03.18-09.24.03:329][423]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset
+[2018.03.18-09.24.04:940][537]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.24.04:959][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.24.04:959][537]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:24:04 AM)
+[2018.03.18-09.24.04:959][537]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.24.05:014][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055302s)
+[2018.03.18-09.24.05:014][537]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.24.05:015][537]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.03.18-09.24.05:015][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.056105s)
+[2018.03.18-09.24.05:083][537]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.24.05:092][537]LogInit: FAudioDevice initialized.
+[2018.03.18-09.24.05:122][537]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.24.05:142][537]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.24.05
+[2018.03.18-09.24.05:143][537]LogWorld: Bringing up level for play took: 0.019673
+[2018.03.18-09.24.05:145][537]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 1.017
+[2018.03.18-09.24.28:457][860]LogSavePackage: Save=151.01ms
+[2018.03.18-09.24.28:457][860]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacterBED7792D413C46E3BC97D997C064F32D.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.24.28:460][860]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.24.28:832][861]Cmd: QUIT_EDITOR
+[2018.03.18-09.24.29:750][861]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.18-09.24.29:762][861]LogExit: Preparing to exit.
+[2018.03.18-09.24.30:540][861]LogExit: Editor shut down
+[2018.03.18-09.24.30:549][861]LogExit: Transaction tracking system shut down
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.18-09.24.30:842][861]LogExit: Object subsystem successfully closed.
+[2018.03.18-09.24.30:860][861]LogD3D11RHI: Shutdown
+[2018.03.18-09.24.30:860][861]LogD3D11RHI: CleanupD3DDevice
+[2018.03.18-09.24.30:865][861]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (558)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module SkeletonEditor (556)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (554)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module StatsViewer (548)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (546)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module SceneOutliner (544)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module AddContentDialog (542)
+[2018.03.18-09.24.30:873][861]LogDirectoryWatcher: A directory notification for 'D:/Program Files (x86)/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module WidgetCarousel (541)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module EditorWidgets (538)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module CollectionManager (536)
+[2018.03.18-09.24.30:874][861]LogDirectoryWatcher: A directory notification for 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/Collections/' was aborted.
+[2018.03.18-09.24.30:874][861]LogDirectoryWatcher: A directory notification for 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/Developers/YzArCBeatS/Collections/' was aborted.
+[2018.03.18-09.24.30:874][861]LogDirectoryWatcher: A directory notification for 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Collections/' was aborted.
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.18-09.24.31:445][861]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.18-09.24.31:445][861]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.18-09.24.31:445][861]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.18-09.24.31:546][861]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.18-09.24.31:647][861]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.18-09.24.31:647][861]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.18-09.24.31:647][861]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.18-09.24.31:647][861]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.18-09.24.31:725][861]LogDerivedDataCache: Shutdown
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.18-09.24.31:726][861]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.18-09.24.31:726][861]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B43AEEC15-47A0-68BC-BFDF-57B132402255%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dd6bdb1d4790c26143b641a5342c29d2%7C014d81468c0f450c8594176a30860e45%7Cc10492ab-e0c1-4327-a4d3-3d96821e5540&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.18-09.24.31:732][861]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.18-09.24.31:733][861]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.18-09.24.31:733][861]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.18-09.24.31:733][861]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.18-09.24.31:733][861]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.18-09.24.31:734][861]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.18-09.24.31:734][861]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.18-09.24.31:734][861]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.18-09.24.31:738][861]LogExit: Exiting.
+[2018.03.18-09.24.31:750][861]Log file closed, 03/18/18 17:24:31
