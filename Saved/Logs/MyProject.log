@@ -918,3 +918,525 @@ LogInit: Object subsystem initialized
 [2018.03.18-09.12.53:274][415]LogSavePackage: Save=138.41ms
 [2018.03.18-09.12.53:274][415]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter743BB34C482184FE0D86E39589AAB50A.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2018.03.18-09.12.53:278][415]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.13.38:325][123]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.13.38:344][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.13.38:345][123]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:13:38 AM)
+[2018.03.18-09.13.38:345][123]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.13.38:402][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056501s)
+[2018.03.18-09.13.38:402][123]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.13.38:402][123]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.03.18-09.13.38:403][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.057512s)
+[2018.03.18-09.13.38:424][123]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.13.38:434][123]LogInit: FAudioDevice initialized.
+[2018.03.18-09.13.38:464][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.13.38:486][123]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.13.38
+[2018.03.18-09.13.38:487][123]LogWorld: Bringing up level for play took: 0.021367
+[2018.03.18-09.13.38:490][123]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.362
+[2018.03.18-09.13.58:449][398]LogSavePackage: Save=152.41ms
+[2018.03.18-09.13.58:449][398]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacterED792EB947D9A9D96BC7EC93A1297BD4.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.13.58:453][398]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.13.59:680][456]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.13.59:699][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.13.59:699][456]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:13:59 AM)
+[2018.03.18-09.13.59:699][456]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.13.59:755][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056377s)
+[2018.03.18-09.13.59:756][456]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.13.59:757][456]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2018.03.18-09.13.59:757][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.057977s)
+[2018.03.18-09.13.59:779][456]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.13.59:788][456]LogInit: FAudioDevice initialized.
+[2018.03.18-09.13.59:822][456]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.13.59:844][456]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.13.59
+[2018.03.18-09.13.59:844][456]LogWorld: Bringing up level for play took: 0.020104
+[2018.03.18-09.13.59:846][456]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.282
+[2018.03.18-09.14.36:718][577]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.14.36:736][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.14.36:736][577]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:14:36 AM)
+[2018.03.18-09.14.36:736][577]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.14.36:807][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070827s)
+[2018.03.18-09.14.36:807][577]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.14.36:808][577]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2018.03.18-09.14.36:808][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.071573s)
+[2018.03.18-09.14.36:830][577]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.14.36:839][577]LogInit: FAudioDevice initialized.
+[2018.03.18-09.14.36:890][577]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.14.36:910][577]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.14.36
+[2018.03.18-09.14.36:910][577]LogWorld: Bringing up level for play took: 0.019190
+[2018.03.18-09.14.36:912][577]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.784
+[2018.03.18-09.15.34:809][173]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.15.34:828][173]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-09.15.34:851][173]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-09.15.35:175][173]LogPlayLevel: PlayLevel: Blueprint regeneration took 347 ms (1 blueprints)
+[2018.03.18-09.15.35:175][173]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:15:35 AM)
+[2018.03.18-09.15.35:175][173]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.15.35:230][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055253s)
+[2018.03.18-09.15.35:231][173]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.15.35:231][173]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2018.03.18-09.15.35:232][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.056730s)
+[2018.03.18-09.15.35:254][173]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.15.35:264][173]LogInit: FAudioDevice initialized.
+[2018.03.18-09.15.35:296][173]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.15.35:316][173]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.15.35
+[2018.03.18-09.15.35:316][173]LogWorld: Bringing up level for play took: 0.019422
+[2018.03.18-09.15.35:319][173]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 1.191
+[2018.03.18-09.15.35:339][174]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054370 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2018.03.18-09.15.51:789][332]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.15.51:808][332]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-09.15.51:830][332]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-09.15.52:248][332]LogPlayLevel: PlayLevel: Blueprint regeneration took 440 ms (1 blueprints)
+[2018.03.18-09.15.52:248][332]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:15:52 AM)
+[2018.03.18-09.15.52:248][332]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.15.52:300][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052101s)
+[2018.03.18-09.15.52:301][332]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.15.52:302][332]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2018.03.18-09.15.52:302][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.053676s)
+[2018.03.18-09.15.52:323][332]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.15.52:332][332]LogInit: FAudioDevice initialized.
+[2018.03.18-09.15.52:364][332]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.15.52:384][332]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.15.52
+[2018.03.18-09.15.52:385][332]LogWorld: Bringing up level for play took: 0.019269
+[2018.03.18-09.15.52:387][332]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.259
+[2018.03.18-09.16.15:657][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.16.15:677][ 31]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-09.16.15:702][ 31]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-09.16.16:209][ 31]LogPlayLevel: PlayLevel: Blueprint regeneration took 532 ms (1 blueprints)
+[2018.03.18-09.16.16:209][ 31]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:16:16 AM)
+[2018.03.18-09.16.16:209][ 31]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.16.16:262][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052661s)
+[2018.03.18-09.16.16:263][ 31]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.16.16:263][ 31]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2018.03.18-09.16.16:263][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.054148s)
+[2018.03.18-09.16.16:284][ 31]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.16.16:293][ 31]LogInit: FAudioDevice initialized.
+[2018.03.18-09.16.16:327][ 31]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.16.16:347][ 31]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.16.16
+[2018.03.18-09.16.16:348][ 31]LogWorld: Bringing up level for play took: 0.019124
+[2018.03.18-09.16.16:350][ 31]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.222
+[2018.03.18-09.16.26:515][763]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.16.28:543][788]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.16.28:560][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.16.28:560][788]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:16:28 AM)
+[2018.03.18-09.16.28:561][788]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.16.28:626][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065803s)
+[2018.03.18-09.16.28:627][788]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.16.28:627][788]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2018.03.18-09.16.28:627][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.066523s)
+[2018.03.18-09.16.28:691][788]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.16.28:699][788]LogInit: FAudioDevice initialized.
+[2018.03.18-09.16.28:732][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.16.28:751][788]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.16.28
+[2018.03.18-09.16.28:752][788]LogWorld: Bringing up level for play took: 0.018531
+[2018.03.18-09.16.28:754][788]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.626
+[2018.03.18-09.17.31:895][831]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.17.31:914][831]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.18-09.17.31:936][831]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.03.18-09.17.32:254][831]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2018.03.18-09.17.32:255][831]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:17:32 AM)
+[2018.03.18-09.17.32:255][831]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.17.32:307][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051920s)
+[2018.03.18-09.17.32:307][831]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.17.32:308][831]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2018.03.18-09.17.32:308][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.053531s)
+[2018.03.18-09.17.32:329][831]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.17.32:338][831]LogInit: FAudioDevice initialized.
+[2018.03.18-09.17.32:368][831]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.17.32:388][831]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.17.32
+[2018.03.18-09.17.32:389][831]LogWorld: Bringing up level for play took: 0.019785
+[2018.03.18-09.17.32:391][831]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.263
+[2018.03.18-09.17.42:578][976]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.17.43:341][999]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.17.44:639][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.17.44:656][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.17.44:657][ 68]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:17:44 AM)
+[2018.03.18-09.17.44:657][ 68]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.17.44:708][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051762s)
+[2018.03.18-09.17.44:709][ 68]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.17.44:709][ 68]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.03.18-09.17.44:709][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.052867s)
+[2018.03.18-09.17.44:731][ 68]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.17.44:739][ 68]LogInit: FAudioDevice initialized.
+[2018.03.18-09.17.44:770][ 68]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.17.44:790][ 68]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.17.44
+[2018.03.18-09.17.44:790][ 68]LogWorld: Bringing up level for play took: 0.019265
+[2018.03.18-09.17.44:793][ 68]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.664
+[2018.03.18-09.20.15:190][146]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.20.16:771][249]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.20.16:790][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.20.16:790][249]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:20:16 AM)
+[2018.03.18-09.20.16:790][249]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.20.16:845][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054171s)
+[2018.03.18-09.20.16:845][249]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.20.16:845][249]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.03.18-09.20.16:846][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.055287s)
+[2018.03.18-09.20.16:866][249]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.20.16:875][249]LogInit: FAudioDevice initialized.
+[2018.03.18-09.20.16:906][249]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.20.16:926][249]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.20.16
+[2018.03.18-09.20.16:926][249]LogWorld: Bringing up level for play took: 0.019167
+[2018.03.18-09.20.16:929][249]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 0.801
+[2018.03.18-09.20.33:678][970]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.20.35:894][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.20.35:912][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.20.35:912][ 95]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:20:35 AM)
+[2018.03.18-09.20.35:912][ 95]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.20.35:965][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052667s)
+[2018.03.18-09.20.35:966][ 95]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.20.35:966][ 95]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.03.18-09.20.35:966][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.054067s)
+[2018.03.18-09.20.35:987][ 95]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.20.35:995][ 95]LogInit: FAudioDevice initialized.
+[2018.03.18-09.20.36:028][ 95]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.20.36:048][ 95]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.20.36
+[2018.03.18-09.20.36:049][ 95]LogWorld: Bringing up level for play took: 0.019788
+[2018.03.18-09.20.36:051][ 95]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.077
+[2018.03.18-09.20.49:688][592]LogSavePackage: Save=149.26ms
+[2018.03.18-09.20.49:688][592]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacter7883018548E551442691AFB906AE64AD.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.20.49:691][592]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.22.25:146][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.18-09.22.26:626][627]LogSavePackage: Save=1453.03ms
+[2018.03.18-09.22.26:626][627]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/MyLevel99C819C44025E8D00949DF964931E46B.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap'
+[2018.03.18-09.22.26:628][627]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap
+[2018.03.18-09.22.26:660][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2018.03.18-09.22.27:354][627]LogSavePackage: Save=673.13ms
+[2018.03.18-09.22.27:354][627]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/MyLevel_BuiltDataC063B18A436CC41898F2849AE56971C4.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset'
+[2018.03.18-09.22.27:357][627]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset
+[2018.03.18-09.22.27:909][650]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.22.27:928][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.22.27:928][650]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:22:27 AM)
+[2018.03.18-09.22.27:928][650]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.22.27:981][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053379s)
+[2018.03.18-09.22.27:982][650]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.22.27:982][650]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.03.18-09.22.27:982][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.054453s)
+[2018.03.18-09.22.28:005][650]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.22.28:015][650]LogInit: FAudioDevice initialized.
+[2018.03.18-09.22.28:045][650]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.22.28:065][650]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.22.28
+[2018.03.18-09.22.28:065][650]LogWorld: Bringing up level for play took: 0.019187
+[2018.03.18-09.22.28:067][650]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0.061
+[2018.03.18-09.23.29:548][110]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.23.51:668][510]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.03.18-09.24.01:130][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.18-09.24.02:598][423]LogSavePackage: Save=1446.27ms
+[2018.03.18-09.24.02:598][423]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/MyLevel4DA8961D4C07265BD0928CBA33D48F9B.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap'
+[2018.03.18-09.24.02:605][423]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel.umap
+[2018.03.18-09.24.02:642][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2018.03.18-09.24.03:325][423]LogSavePackage: Save=679.03ms
+[2018.03.18-09.24.03:325][423]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/MyLevel_BuiltData120E007F4688E7590E602C9784E11489.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset'
+[2018.03.18-09.24.03:329][423]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/MyLevel_BuiltData.uasset
+[2018.03.18-09.24.04:940][537]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-09.24.04:959][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-09.24.04:959][537]PIE: New page: PIE session: MyLevel (Mar 19, 2018, 1:24:04 AM)
+[2018.03.18-09.24.04:959][537]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2018.03.18-09.24.05:014][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055302s)
+[2018.03.18-09.24.05:014][537]LogAIModule: Creating AISystem for world MyLevel
+[2018.03.18-09.24.05:015][537]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.03.18-09.24.05:015][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.056105s)
+[2018.03.18-09.24.05:083][537]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.18-09.24.05:092][537]LogInit: FAudioDevice initialized.
+[2018.03.18-09.24.05:122][537]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.18-09.24.05:142][537]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2018.03.18-17.24.05
+[2018.03.18-09.24.05:143][537]LogWorld: Bringing up level for play took: 0.019673
+[2018.03.18-09.24.05:145][537]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel 1.017
+[2018.03.18-09.24.28:457][860]LogSavePackage: Save=151.01ms
+[2018.03.18-09.24.28:457][860]LogSavePackage: Moving 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/ThirdPersonCharacterBED7792D413C46E3BC97D997C064F32D.tmp' to 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.03.18-09.24.28:460][860]LogSavePackage: Display: Finished SavePackage C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/ThirdPerson_StartPack/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.03.18-09.24.28:832][861]Cmd: QUIT_EDITOR
+[2018.03.18-09.24.29:750][861]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.18-09.24.29:762][861]LogExit: Preparing to exit.
+[2018.03.18-09.24.30:540][861]LogExit: Editor shut down
+[2018.03.18-09.24.30:549][861]LogExit: Transaction tracking system shut down
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.18-09.24.30:770][861]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.18-09.24.30:842][861]LogExit: Object subsystem successfully closed.
+[2018.03.18-09.24.30:860][861]LogD3D11RHI: Shutdown
+[2018.03.18-09.24.30:860][861]LogD3D11RHI: CleanupD3DDevice
+[2018.03.18-09.24.30:865][861]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (558)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module SkeletonEditor (556)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (554)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module StatsViewer (548)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (546)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module SceneOutliner (544)
+[2018.03.18-09.24.30:873][861]LogModuleManager: Shutting down and abandoning module AddContentDialog (542)
+[2018.03.18-09.24.30:873][861]LogDirectoryWatcher: A directory notification for 'D:/Program Files (x86)/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module WidgetCarousel (541)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module EditorWidgets (538)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module CollectionManager (536)
+[2018.03.18-09.24.30:874][861]LogDirectoryWatcher: A directory notification for 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/Collections/' was aborted.
+[2018.03.18-09.24.30:874][861]LogDirectoryWatcher: A directory notification for 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Content/Developers/YzArCBeatS/Collections/' was aborted.
+[2018.03.18-09.24.30:874][861]LogDirectoryWatcher: A directory notification for 'C:/Users/YzArC-BeatS/Documents/GitHub/Unreal_myproject/Saved/Collections/' was aborted.
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.18-09.24.30:874][861]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.18-09.24.30:875][861]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.18-09.24.31:151][861]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.18-09.24.31:205][861]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.18-09.24.31:212][861]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.18-09.24.31:213][861]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.18-09.24.31:444][861]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.18-09.24.31:445][861]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.18-09.24.31:445][861]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.18-09.24.31:445][861]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.18-09.24.31:446][861]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.18-09.24.31:546][861]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.18-09.24.31:646][861]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.18-09.24.31:647][861]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.18-09.24.31:647][861]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.18-09.24.31:647][861]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.18-09.24.31:647][861]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.18-09.24.31:649][861]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.18-09.24.31:655][861]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.18-09.24.31:657][861]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.18-09.24.31:658][861]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.18-09.24.31:725][861]LogDerivedDataCache: Shutdown
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.18-09.24.31:725][861]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.18-09.24.31:726][861]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.18-09.24.31:726][861]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.18-09.24.31:726][861]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B43AEEC15-47A0-68BC-BFDF-57B132402255%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dd6bdb1d4790c26143b641a5342c29d2%7C014d81468c0f450c8594176a30860e45%7Cc10492ab-e0c1-4327-a4d3-3d96821e5540&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.18-09.24.31:732][861]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.18-09.24.31:733][861]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.18-09.24.31:733][861]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.18-09.24.31:733][861]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.18-09.24.31:733][861]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.18-09.24.31:734][861]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.18-09.24.31:734][861]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.18-09.24.31:734][861]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.18-09.24.31:735][861]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.18-09.24.31:738][861]LogExit: Exiting.
+[2018.03.18-09.24.31:750][861]Log file closed, 03/18/18 17:24:31
